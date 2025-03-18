@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Case_Dev_Software_Automind/1.0.0": {
+        "runtime": {
+          "Case_Dev_Software_Automind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Case_Dev_Software_Automind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

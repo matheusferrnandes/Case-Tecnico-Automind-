@@ -1,0 +1,14 @@
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.AssemblyInfoInputs.cache
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.AssemblyInfo.cs
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.csproj.CoreCompileInputs.cache
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\bin\Debug\net9.0\Case_Dev_Software_Automind.exe
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\bin\Debug\net9.0\Case_Dev_Software_Automind.deps.json
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\bin\Debug\net9.0\Case_Dev_Software_Automind.runtimeconfig.json
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\bin\Debug\net9.0\Case_Dev_Software_Automind.dll
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\bin\Debug\net9.0\Case_Dev_Software_Automind.pdb
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.dll
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\refint\Case_Dev_Software_Automind.dll
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.pdb
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\Case_Dev_Software_Automind.genruntimeconfig.cache
+c:\Users\mathe\Desktop\Case_Dev_Software_Automind\obj\Debug\net9.0\ref\Case_Dev_Software_Automind.dll
